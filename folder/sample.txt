@@ -9,3 +9,9 @@ To
 Be
 Written
 Exactly
+
+def hello():
+    """Hello Function"""
+    pass
+    
+end
